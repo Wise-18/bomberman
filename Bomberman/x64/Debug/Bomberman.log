@@ -1,0 +1,27 @@
+﻿  Bomb.cpp
+  Bomber.cpp
+  Bomberman.cpp
+c:\users\abaa3\onedrive\рабочий стол\bomberman\bomberman\bomberman.cpp(8): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Enemy.cpp
+  Game.cpp
+c:\users\abaa3\onedrive\рабочий стол\bomberman\bomberman\game.cpp(11): warning C4267: аргумент: преобразование из "size_t" в "unsigned int"; возможна потеря данных
+  GameObject.cpp
+  Logic.cpp
+  Login.cpp
+c:\users\abaa3\onedrive\рабочий стол\bomberman\bomberman\login.cpp(56): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+c:\users\abaa3\onedrive\рабочий стол\bomberman\bomberman\login.cpp(57): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  Menu.cpp
+c:\users\abaa3\onedrive\рабочий стол\bomberman\bomberman\menu.cpp(59): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+c:\users\abaa3\onedrive\рабочий стол\bomberman\bomberman\menu.cpp(60): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  Options.cpp
+c:\users\abaa3\onedrive\рабочий стол\bomberman\bomberman\options.cpp(86): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+c:\users\abaa3\onedrive\рабочий стол\bomberman\bomberman\options.cpp(87): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  Play.cpp
+  Player.cpp
+  Rating.cpp
+c:\users\abaa3\onedrive\рабочий стол\bomberman\bomberman\rating.cpp(30): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+c:\users\abaa3\onedrive\рабочий стол\bomberman\bomberman\rating.cpp(49): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\abaa3\onedrive\рабочий стол\bomberman\bomberman\rating.cpp(96): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+c:\users\abaa3\onedrive\рабочий стол\bomberman\bomberman\rating.cpp(97): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  Создание кода...
+  Bomberman.vcxproj -> C:\Users\abaa3\OneDrive\Рабочий стол\bomberman\x64\Debug\Bomberman.exe
